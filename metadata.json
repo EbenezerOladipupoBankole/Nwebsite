@@ -1,0 +1,7 @@
+{
+  "name": "Nibbo - Premium Delivery & Errands",
+  "description": "A sophisticated, world-class delivery and errands platform providing high-speed logistics, personal shopping, and AI-powered errand planning for modern city life.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
